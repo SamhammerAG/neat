@@ -1,0 +1,4 @@
+.grid-padding--2 {
+  background-color: pink;
+  @include grid-padding(2);
+}
