@@ -1,5 +1,5 @@
 {
-  "name": "sag-bourbon-neat",
+  "name": "@samhammer/bourbon-neat",
   "version": "2.1.1",
   "description": "A fork of the original neat but still a lightweight, semantic grid framework",
   "keywords": [
