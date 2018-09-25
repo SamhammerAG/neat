@@ -1,7 +1,7 @@
 {
   "name": "@samhammer/bourbon-neat",
-  "version": "2.1.1",
-  "description": "A fork of the original neat but still a lightweight, semantic grid framework",
+  "version": "3.0.0",
+  "description": "A lightweight, semantic grid framework",
   "keywords": [
     "columns",
     "grid",
@@ -35,10 +35,9 @@
     "test": "bundle exec rake"
   },
   "devDependencies": {
-    "gulp": "^3.9",
-    "gulp-autoprefixer": "^3.1",
-    "gulp-connect": "^5.0",
-    "gulp-sass": "^3.1"
+    "browser-sync": "^2.24.6",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.1"
   },
   "eyeglass": {
     "name": "neat",

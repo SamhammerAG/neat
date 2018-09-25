@@ -1,5 +1,7 @@
 [<img src="http://images.thoughtbot.com/bourbon/neat-logo-v2.svg" width="200" alt="Neat logo">][Neat]
 
+[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
+
 ## A lightweight and flexible Sass grid
 
 [Neat] is a fluid grid framework with the aim of being easy enough to
@@ -177,11 +179,9 @@ neat [options]
 
 - [Bourbon]: A lightweight Sass tool set
 - [Bitters]: Scaffold styles, variables and structure for Bourbon projects
-- [Refills]: Components and patterns built with Bourbon and Neat
 
   [Bourbon]: https://github.com/thoughtbot/bourbon
   [Bitters]: https://github.com/thoughtbot/bitters
-  [Refills]: https://github.com/thoughtbot/refills
 
 ## Contributing
 
