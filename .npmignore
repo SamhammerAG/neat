@@ -6,7 +6,6 @@
 .sass-cache
 .scss-lint.yml
 bin/
-bower.json
 circle.yml
 CODE_OF_CONDUCT.md
 contrib/

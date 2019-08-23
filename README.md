@@ -44,8 +44,6 @@ use out of the box and flexible enough to customize down the road.
    gem install neat
    ```
 
-    Alternatively, you can install Neat with [Bower].
-
 1. Install or update Neat’s dependencies:
 
    ```bash
@@ -75,7 +73,6 @@ use out of the box and flexible enough to customize down the road.
    them easily.
 
 [RubyGems]: https://rubygems.org
-[Bower]: http://bower.io
 
 ### Installation for Ruby on Rails 4.2+
 
@@ -127,10 +124,6 @@ use out of the box and flexible enough to customize down the road.
    @import "neat";
    ```
 
-    **Pro Tip:** Check out this [example gulp project][gulp-example] that 
-    uses Bourbon and Neat.
-
-[gulp-example]: https://github.com/thoughtbot/gulp-bourbon-neat-example
 [eyeglass]: http://eyeglass.rocks
 
 ### Installing older versions of Neat
@@ -203,7 +196,7 @@ Neat is maintained by the thoughtbot design team. It is funded by
 [thoughtbot, inc.][thoughtbot] and the names and logos for thoughtbot are
 trademarks of thoughtbot, inc.
 
-[<img src="http://presskit.thoughtbot.com/images/signature.svg" width="250" alt="thoughtbot logo">][thoughtbot]
+[![thoughtbot logo](https://presskit.thoughtbot.com/images/thoughtbot-logo-for-readmes.svg)][thoughtbot]
 
 We love open-source software! See [our other projects][community] or
 [hire us][hire] to design, develop, and grow your product.
